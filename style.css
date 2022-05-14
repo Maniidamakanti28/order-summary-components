@@ -1,0 +1,106 @@
+body{
+  background-color: hsl(185, 75%, 39%);
+  font-family: 'Kumbh Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
+  background-position: right 52vw bottom 35vh, left 49vw top 49vh;
+  background-repeat: no-repeat;
+}
+
+.card{
+  border-radius: 15px;
+  background-color: white;
+  height: 420px;
+  width: 300px;
+  margin: 200px auto;
+}
+.img-card{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 200px;
+  width: 300px;
+}
+.victor{
+  position: relative;
+  left: 100px;
+  bottom: 55px;
+  border-radius: 50%;
+  border: solid 5px white;
+}
+.Name{
+  position: relative;
+  bottom: 60px;
+  left: 100px;
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+
+}
+
+.number{
+  position: relative;
+  left:5px;
+  color: hsl(227, 10%, 46%);
+
+}
+.city{
+  color: hsl(227, 10%, 46%);
+  margin:0px 0px 0px 20px;
+  position: relative;
+  bottom: 10px;
+
+}
+.hori{
+  color: hsl(0, 0%, 59%);
+  position: relative;
+  right:100px;
+}
+
+.info{
+
+}
+.p1{
+  color: hsl(229, 23%, 23%);
+  position: relative;
+  right: 60px;
+  font-size: 18px;
+
+}
+.p2{
+  color: hsl(229, 23%, 23%);
+  font-size: 18px;
+  position: relative;
+  right: 10px;
+
+
+}
+.p3{
+  color: hsl(229, 23%, 23%);
+  position: relative;
+  left: 40px;
+  font-size: 18px;
+
+}
+
+.p4{
+  color: hsl(227, 10%, 46%);
+  position: relative;
+  right: 70px;
+  bottom: 15px;
+
+}
+.p5{
+  color: hsl(227, 10%, 46%);
+  position: relative;
+  right: 50px;
+  bottom: 15px;
+}
+.p6{
+  color: hsl(227, 10%, 46%);
+  position: relative;
+  right: :  10px;
+  bottom: 15px;
+}
+
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
